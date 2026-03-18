@@ -237,17 +237,7 @@ export default function ContactPage() {
           <p className="text-gray-700 dark:text-gray-300">
             Please contact us at <a href="mailto:partnerships@cdss-xray.example" className="text-blue-600 dark:text-blue-400 hover:underline">partnerships@cdss-xray.example</a> with details about your organization and interests.
           </p>
-          <p className="mt-4 text-gray-700 dark:text-gray-300">
-            Check out our <a 
-              href="https://github.com/randombigboy4-bit/cdss-xray-app/tree/main" 
-              target="_blank" 
-              rel="noopener noreferrer" 
-              className="text-blue-600 dark:text-blue-400 hover:underline flex items-center inline-flex"
-            >
-              <Github className="h-4 w-4 mr-1" />
-              GitHub repository
-            </a> to learn more about our project's technical implementation.
-          </p>
+       
         </div>
       </div>
     </div>
