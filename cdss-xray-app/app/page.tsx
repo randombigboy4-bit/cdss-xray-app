@@ -40,7 +40,7 @@ export default function Home() {
       {/* Add structured data for SEO */}
       <StructuredData
         type="website"
-        name="CDSS X-Ray - AI-Powered Clinical Decision Support System"
+        name="CDSS X-Ray - AI-Based Pnuemonia Detection"
         description="Enhance diagnostic accuracy and speed with advanced machine learning algorithms designed to assist medical professionals in chest X-ray interpretation."
         customData={{
           offers: {
@@ -60,7 +60,7 @@ export default function Home() {
             <div className="grid md:grid-cols-2 gap-12 items-center">
               <div className="order-2 md:order-1">
                 <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight">
-                  AI-Powered Chest X-Ray Analysis for Clinical Decision Support
+                  AI-Powered Chest X-Ray Analysis for Pnuemonia Detection
                 </h1>
                 <p className="text-lg text-gray-600 dark:text-gray-400 mb-8">
                   Enhance diagnostic accuracy and speed with our advanced machine learning algorithms designed to assist medical professionals in chest X-ray interpretation.
