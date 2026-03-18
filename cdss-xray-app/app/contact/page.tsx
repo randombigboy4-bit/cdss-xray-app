@@ -94,35 +94,16 @@ export default function ContactPage() {
                 <div>
                   <p className="font-medium">Location</p>
                   <p className="text-gray-600 dark:text-gray-400">
-                    Healthcare Innovation Center<br />
-                    123 Medical Drive<br />
-                    Boston, MA 02115
+                    Kakatiya University<br />
+                    Warangal<br />
+                    Telanagana
                   </p>
                 </div>
               </li>
-              <li className="flex items-start">
-                <Github className="h-6 w-6 text-blue-600 dark:text-blue-400 mr-3 mt-1" />
-                <div>
-                  <p className="font-medium">GitHub Repository</p>
-                  <a 
-                    href="https://github.com/MMansy19/cdss-xray-app" 
-                    target="_blank" 
-                    rel="noopener noreferrer" 
-                    className="text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
-                  >
-                    github.com/MMansy19/cdss-xray-app
-                  </a>
-                </div>
-              </li>
+             
             </ul>
             
-            <div className="mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
-              <h3 className="font-medium mb-3">Office Hours</h3>
-              <p className="text-sm text-gray-600 dark:text-gray-400">
-                Monday - Friday: 9:00 AM - 5:00 PM<br />
-                Saturday - Sunday: Closed
-              </p>
-            </div>
+            
           </div>
         </div>
         
@@ -258,7 +239,7 @@ export default function ContactPage() {
           </p>
           <p className="mt-4 text-gray-700 dark:text-gray-300">
             Check out our <a 
-              href="https://github.com/MMansy19/cdss-xray-app" 
+              href="https://github.com/randombigboy4-bit/cdss-xray-app/tree/main" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="text-blue-600 dark:text-blue-400 hover:underline flex items-center inline-flex"
